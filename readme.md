@@ -3,7 +3,7 @@
 
 * 产品名称：LaraBBS
 * 项目代号：larabbs
-* 地址：https://laravel-bbs.slwh-tc.com
+* 地址：http://laravel-bbs.slwh-tc.com
 
 LaraBBS 是一个简洁的论坛应用，使用 Laravel 编写而成。
 
